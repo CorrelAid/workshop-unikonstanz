@@ -2,14 +2,14 @@
 
 ## Voraussetzungen
 - Grundlegende Kentnisse in R
-    - DataCamp Introduction to R
-    - R Kurs @Uni Konstanz
 
 ## Installationen
 - [R 3.4.0](https://www.r-project.org/) (bitte updaten)
 - [RStudio](https://www.rstudio.com/)
-- Texteditor (Notepad/Sublime/Brackets)
-- Tabellenkalkulation (Microsoft Excel/LibreOffice Calc/OpenOffice Calc)
+- Texteditor ([Notepad](https://notepad-plus-plus.org/)/[Sublime](https://www.sublimetext.com/))
+- Tabellenkalkulation ([LibreOffice Calc](https://de.libreoffice.org/)/[OpenOffice Calc](https://www.openoffice.org/de/)/Microsoft Excel)
+
+Ohne die oben genannten Programme könnt ihr nicht am Kurs teilnehmen, da der Kurs interaktive Elemente enthält.
 
 ## Programm
 1. Getting started like a pro
@@ -26,5 +26,4 @@
 
 ## Kontakt
 [Frie](mailto:friedrike.p@correlaid.org), MA Social and Economic Data Analysis
-
 [Jan](mailto:jan.d@correlaid.org), BA Politik- & Verwaltungswissenschaften
