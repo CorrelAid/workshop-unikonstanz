@@ -1,6 +1,6 @@
 # Workshop @Uni Konstanz
 
-Alle Dokumente, die diesen Kurs betreffen werden in diesem Repository (Repo) hochgeladen. Während des Kurses werden wir in diesem Repo die Datensätze und die Zwischenschritte hochladen. Später finden sich hier auch die Lösungen und die Folien. Wenn ihr das Repo kopieren wollt, dann ladet euch einfach die ZIP Datei über den Button oben rechts runter. Alternativ könnt ihr auch [Git](https://git-scm.com/) installieren und das Repo mit `git clone https://github.com/CorrelAid/workshop-unikonstanz.git` klonen. Eine einfache Anleitung zu Git findet ihr [hier](https://rogerdudler.github.io/git-guide/index.de.html).
+Alle Dokumente, die diesen Kurs betreffen, werden in diesem Repository (Repo) hochgeladen. Während des Kurses werden wir in diesem Repo die Datensätze und die Zwischenschritte hochladen. Später finden sich hier auch die Lösungen und die Folien. Wenn ihr das Repo kopieren wollt, dann ladet euch einfach die ZIP Datei über den Button oben rechts runter. Alternativ könnt ihr auch [Git](https://git-scm.com/) installieren und das Repo mit `git clone https://github.com/CorrelAid/workshop-unikonstanz.git` klonen. Eine einfache Anleitung zu Git findet ihr [hier](https://rogerdudler.github.io/git-guide/index.de.html).
 
 Im folgenden findet Ihr das Programm und die Voraussetzungen um erfolgreich am Workshop teilzunehmen. Wenn ihr Fragen habt, dann schreibt uns einfach. Die Kontaktdaten findet ihr ganz unten.
 
@@ -13,7 +13,7 @@ Im folgenden findet Ihr das Programm und die Voraussetzungen um erfolgreich am W
 - Texteditor ([Notepad](https://notepad-plus-plus.org/)/[Sublime](https://www.sublimetext.com/))
 - Tabellenkalkulation ([LibreOffice Calc](https://de.libreoffice.org/)/[OpenOffice Calc](https://www.openoffice.org/de/)/Microsoft Excel)
 
-Ohne die oben genannten Programme könnt ihr nicht am Kurs teilnehmen, da der Kurs interaktive Elemente enthält.
+Ohne die oben genannten Programme könnt ihr nicht am Kurs teilnehmen, da ihr im Kurs selbst aktiv werden müsst und dafür diese Programme benötigt. 
 
 ## Programm
 1. Getting started like a pro
@@ -29,6 +29,6 @@ Ohne die oben genannten Programme könnt ihr nicht am Kurs teilnehmen, da der Ku
 11. Exportieren
 
 ## Kontakt
-[Frie](mailto:friedrike.p@correlaid.org), MA Social and Economic Data Analysis
+[Frie](mailto:friedrike.p@correlaid.org), MSc Social and Economic Data Analysis
 
-[Jan](mailto:jan.d@correlaid.org), BA Politik- & Verwaltungswissenschaften
+[Jan](mailto:jan.d@correlaid.org), BA Politik- & Verwaltungswissenschaft
