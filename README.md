@@ -25,5 +25,6 @@
 11. Exportieren
 
 ## Kontakt
-[Frie](mailto:friedrike.p@correlaid.org)
-[Jan](mailto:jan.d@correlaid.org)
+[Frie](mailto:friedrike.p@correlaid.org), MA Social and Economic Data Analysis
+
+[Jan](mailto:jan.d@correlaid.org), BA Politik- & Verwaltungswissenschaften
