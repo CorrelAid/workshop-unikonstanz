@@ -1,5 +1,7 @@
 # Workshop @Uni Konstanz
 
+Im folgenden findet Ihr das Programm und die Voraussetzungen um erfolgreich am Workshop teilzunehmen. Wenn ihr Fragen habt, dann schreibt uns einfach. Die Kontaktdaten findet ihr ganz unten.
+
 ## Voraussetzungen
 - Grundlegende Kentnisse in R
 
@@ -26,4 +28,5 @@ Ohne die oben genannten Programme könnt ihr nicht am Kurs teilnehmen, da der Ku
 
 ## Kontakt
 [Frie](mailto:friedrike.p@correlaid.org), MA Social and Economic Data Analysis
+
 [Jan](mailto:jan.d@correlaid.org), BA Politik- & Verwaltungswissenschaften
