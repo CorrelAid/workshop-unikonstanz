@@ -16,17 +16,19 @@ Im folgenden findet Ihr das Programm und die Voraussetzungen um erfolgreich am W
 Ohne die oben genannten Programme könnt ihr nicht am Kurs teilnehmen, da der Kurs interaktive Elemente enthält.
 
 ## Programm
-1. Getting started like a pro
-2. R Markdown
-3. Data Management Principles
-4. Daten einlesen in R
-5. Exkurs String Manipulation
-6. Merging/Joins
-7. Exkurs Pipes - Ceci n'est pas un pipe
-8. Exkurs dplyr
-9. Data Manipulation
-10. Datenstrukturen und -formate
-11. Exportieren
+1. Getting started like a pro 
+2. Data Management Principles 
+3. R Markdown 
+4. Exkurs Datentypen 
+5. Daten einlesen in R 
+6. Exkurs String Manipulation 
+7. Merging/Joins 
+8. Exkurs Pipes - Ceci n'est pas un pipe 
+9. Exkurs dplyr
+10. Data Manipulation
+11. Datenstrukturen und -formate 
+12. Exportieren
+13. Summary & Discussion
 
 ## Kontakt
 [Frie](mailto:friedrike.p@correlaid.org), MA Social and Economic Data Analysis
