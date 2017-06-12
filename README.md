@@ -9,9 +9,17 @@ Im folgenden findet Ihr das Programm und die Voraussetzungen um erfolgreich am W
 
 ## Installationen
 - [R 3.4.0](https://www.r-project.org/) (bitte updaten)
-- [RStudio](https://www.rstudio.com/)
+  - Windows User können auch R direkt aus RStudio updaten mithilfe des `installr` Packages. Anleitung [hier](https://www.r-statistics.com/2013/03/updating-r-from-r-on-windows-using-the-installr-package/). 
+- [RStudio](https://www.rstudio.com/products/rstudio/download/)
 - Texteditor ([Notepad](https://notepad-plus-plus.org/)/[Sublime](https://www.sublimetext.com/))
 - Tabellenkalkulation ([LibreOffice Calc](https://de.libreoffice.org/)/[OpenOffice Calc](https://www.openoffice.org/de/)/Microsoft Excel)
+- die folgenden R Packages (mit `install.packages()`)
+  - stringr
+  - dplyr
+  - tidyr
+  - forcats
+  - countrycode
+  - knitr
 
 Ohne die oben genannten Programme könnt ihr nicht am Kurs teilnehmen, da ihr im Kurs selbst aktiv werden müsst und dafür diese Programme benötigt. 
 
