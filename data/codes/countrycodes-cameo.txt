@@ -1,0 +1,262 @@
+CODELABEL
+WSBWest Bank
+BAGBaghdad
+GZSGaza Strip
+AFRAfrica
+ASAAsia
+BLKBalkans
+CRBCaribbean
+CAUCaucasus
+CFRCentral Africa
+CASCentral Asia
+CEUCentral Europe
+EINEast Indies
+EAFEastern Africa
+EEUEastern Europe
+EUREurope
+LAMLatin America
+MEAMiddle East
+MDTMediterranean
+NAFNorth Africa
+NMRNorth America
+PGSPersian Gulf
+SCNScandinavia
+SAMSouth America
+SASSouth Asia
+SEASoutheast Asia
+SAFSouthern Africa
+WAFWest Africa
+WSTThe West
+AFGAfghanistan
+ALAAland Islands
+ALBAlbania
+DZAAlgeria
+ASMAmerican Samoa
+ANDAndorra
+AGOAngola
+AIAAnguilla
+ATGAntigua and Barbuda
+ARGArgentina
+ARMArmenia
+ABWAruba
+AUSAustralia
+AUTAustria
+AZEAzerbaijan
+BHSBahamas
+BHRBahrain
+BGDBangladesh
+BRBBarbados
+BLRBelarus
+BELBelgium
+BLZBelize
+BENBenin
+BMUBermuda
+BTNBhutan
+BOLBolivia
+BIHBosnia and Herzegovina
+BWABotswana
+BRABrazil
+VGBBritish Virgin Islands
+BRNBrunei Darussalam
+BGRBulgaria
+BFABurkina Faso
+BDIBurundi
+KHMCambodia
+CMRCameroon
+CANCanada
+CPVCape Verde
+CYMCayman Islands
+CAFCentral African Republic
+TCDChad
+CHLChile
+CHNChina
+COLColumbia
+COMComoros
+CODDemocratic Republic of the Congo
+COGPeople's Republic of the Congo
+COKCook Islands
+CRICosta Rica
+CIVIvory Coast
+HRVCroatia
+CUBCuba
+CYPCyprus
+CZECzech Republic
+DNKDenmark
+DJIDjibouti
+DMADominica
+DOMDominican Republic
+TMPEast Timor
+ECUEcuador
+EGYEgypt
+SLVEl Salvador
+GNQEquatorial Guinea
+ERIEritrea
+ESTEstonia
+ETHEthiopia
+FROFaeroe Islands
+FLKFalkland Islands
+FJIFiji
+FINFinland
+FRAFrance
+GUFFrench Guiana
+PYFFrench Polynesia
+GABGabon
+GMBGambia
+GEOGeorgia
+DEUGermany
+GHAGhana
+GIBGibraltar
+GRCGreece
+GRLGreenland
+GRDGrenada
+GLPGuadeloupe
+GUMGuam
+GTMGuatemala
+GINGuinea
+GNBGuinea-Bissau
+GUYGuyana
+HTIHaiti
+VATVatican City
+HNDHonduras
+HKGHong Kong
+HUNHungary
+ISLIceland
+INDIndia
+IDNIndonesia
+IRNIran
+IRQIraq
+IRLIreland
+IMYIsle of Man
+ISRIsrael
+ITAItaly
+JAMJamaica
+JPNJapan
+JORJordan
+KAZKazakhstan
+KENKenya
+KIRKiribati
+PRKNorth Korea
+KORSouth Korea
+KWTKuwait
+KGZKyrgyzstan
+LAOLaos
+LVALatvia
+LBNLebanon
+LSOLesotho
+LBRLiberia
+LBYLibya
+LIELiechtenstein
+LTULithuania
+LUXLuxembourg
+MACMacao
+MKDMacedonia
+MDGMadagascar
+MWIMalawi
+MYSMalaysia
+MDVMaldives
+MLIMali
+MLTMalta
+MHLMarshall Islands
+MTQMartinique
+MRTMauritania
+MUSMauritius
+MYTMayotte
+MEXMexico
+FSMMicronesia
+MDAMoldova
+MCOMonaco
+MNGMongolia
+MTNMontenegro
+MSRMontserrat
+MARMorocco
+MOZMozambique
+MMRMyanmar
+NAMNamibia
+NRUNauru
+NPLNepal
+NLDNetherlands
+ANTNetherlands Antilles
+NCLNew Caledonia
+NZLNew Zealand
+NICNicaragua
+NERNiger
+NGANigeria
+NIUNiue
+NFKNorfolk Island
+MNPNorthern Mariana Islands
+NORNorway
+PSEOccupied Palestinian Territory
+OMNOman
+PAKPakistan
+PLWPalau
+PANPanama
+PNGPapua New Guinea
+PRYParaguay
+PERPeru
+PHLPhilippines
+PCNPitcairn
+POLPoland
+PRTPortugal
+PRIPuerto Rico
+QATQatar
+REURunion
+ROMRomania
+RUSRussia
+RWARwanda
+SHNSaint Helena
+KNASaint Kitts-Nevis
+LCASaint Lucia
+SPMSaint Pierre and Miquelon
+VCTSaint Vincent and the Grenadines
+WSMSamoa
+SMRSan Marino
+STPSao Tome and Principe
+SAUSaudi Arabia
+SENSenegal
+SRBSerbia
+SYCSeychelles
+SLESierra Leone
+SGPSingapore
+SVKSlovakia
+SVNSlovenia
+SLBSolomon Islands
+SOMSomalia
+ZAFSouth Africa
+ESPSpain
+LKASri Lanka
+SDNSudan
+SURSuriname
+SJMSvalbard and Jan Mayen Islands
+SWZSwaziland
+SWESweden
+CHESwitzerland
+SYRSyria
+TWNTaiwan
+TJKTajikistan
+TZATanzania
+THAThailand
+TGOTogo
+TKLTokelau
+TONTonga
+TTOTrinidad and Tobago
+TUNTunisia
+TURTurkey
+TKMTurkmenistan
+TCATurks and Caicos Islands
+TUVTuvalu
+UGAUganda
+UKRUkraine
+AREUnited Arab Emirates
+GBRUnited Kingdom
+USAUnited States
+VIRUnited States Virgin Islands
+URYUruguay
+UZBUzbekistan
+VUTVanuatu
+VENVenezuela
+VNMVietnam
+WLFWallis and Futuna Islands
+ESHWestern Sahara
+YEMYemen
+ZMBZambia
+ZWEZimbabwe
