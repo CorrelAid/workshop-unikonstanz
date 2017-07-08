@@ -1,7 +1,7 @@
 # toy datasets
 
 # slide 34 ff.
-respondents <- data.frame(id = 1:7, sex = c("male", rep(c("male", "female"), 3)), country = c("DE", "DE", "CH", "CH", "CH", "FR", "AU"), stringsAsFactors = F)
+respondents <- data.frame(id = 1:7, sex = c("male", rep(c("male", "female"), 3)), country = c("DE", "DE", "CH", "CH", "CH", "FR", "AU"), Actor1Type1Code = c("COP", "RAD", "UNO", "PKO", "UNO", "PKO", "PKO"), stringsAsFactors = F)
 countries <- data.frame(country = c("DE", "CH", "UK", "AU"), bip_capita = c(48111, 59561, 42481, 48005), stringsAsFactors = F)
 
 
