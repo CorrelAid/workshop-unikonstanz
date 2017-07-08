@@ -39,6 +39,6 @@ Ohne die oben genannten Programme könnt ihr nicht am Kurs teilnehmen, da ihr im
 13. Summary & Discussion
 
 ## Kontakt
-[Frie](mailto:friedrike.p@correlaid.org), MSc Social and Economic Data Analysis
+[Frie](mailto:friedrike.p@correlaid.org), MSc Social and Economic Data Analysis. [@friep](https://github.com/friep/) auf GitHub. 
 
-[Jan](mailto:jan.d@correlaid.org), BA Politik- & Verwaltungswissenschaft
+[Jan](mailto:jan.d@correlaid.org), BA Politik- & Verwaltungswissenschaft. [@tollpatsch](https://github.com/tollpatsch) auf GitHub.

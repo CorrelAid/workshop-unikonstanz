@@ -1,4 +1,4 @@
-# toy datasets
+# toy datasets - code to generate the mini datasets you find in the slides
 
 # slide 34 ff.
 respondents <- data.frame(id = 1:7, sex = c("male", rep(c("male", "female"), 3)), country = c("DE", "DE", "CH", "CH", "CH", "FR", "AU"), Actor1Type1Code = c("COP", "RAD", "UNO", "PKO", "UNO", "PKO", "PKO"), stringsAsFactors = F)
